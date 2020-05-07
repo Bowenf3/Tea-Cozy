@@ -79,7 +79,7 @@ nav a {
 .mission {
     height: 700px;
     text-align: center;
-    background-image: url("../Media/img-mission-background.jpg");
+    background-image: url("Media/img-mission-background.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -149,7 +149,7 @@ ul span {
 .locations {
     height: 500px;
     text-align: center;
-    background-image: url("../Media/img-locations-background.jpg");
+    background-image: url("Media/img-locations-background.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
